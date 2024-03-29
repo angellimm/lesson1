@@ -1,1 +1,1 @@
-﻿Console.WriteLine("fag");
+﻿Console.WriteLine("shine");
